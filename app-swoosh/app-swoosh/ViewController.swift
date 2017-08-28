@@ -26,6 +26,8 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        //just adding a message for change to push to github
+        
         // Dispose of any resources that can be recreated.
     }
 
